@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I may actually end up keeping an actual blog chronicling my time here at GitHub :) we shall see.
